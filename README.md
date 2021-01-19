@@ -2,6 +2,7 @@
 A One Click Miner for SCC mining at Zergpool
 
 This application was made with Elicoin GUI Miner and cpuminer-opt.
+
 Elicoin: https://github.com/elicoin/elicoin-gui-miner
 cpuminer-opt: https://github.com/JayDDee/cpuminer-opt
 
