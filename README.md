@@ -4,6 +4,7 @@ A One Click Miner for SCC mining at Zergpool
 This application was made with Elicoin GUI Miner and cpuminer-opt.
 
 Elicoin: https://github.com/elicoin/elicoin-gui-miner
+
 cpuminer-opt: https://github.com/JayDDee/cpuminer-opt
 
 This application mines on the Power2B algo to https://zergpool.com/ with only 0.5% fee! (miner also takes 1% fee)
